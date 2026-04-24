@@ -1094,3 +1094,27 @@ Apr 18, 2026 1:29:40 AM Dashboard <init>
 INFO: Dashboard displayed
 Apr 18, 2026 1:29:41 AM Dashboard openProductManagement
 INFO: Opening Product Management
+Apr 24, 2026 12:37:19 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 24, 2026 12:37:19 PM Main main
+INFO: Application starting...
+Apr 24, 2026 12:37:20 PM DBConnection initializeDatabase
+INFO: Database initialized successfully.
+Apr 24, 2026 12:37:20 PM LoginPage <init>
+INFO: Login page displayed
+Apr 24, 2026 12:37:26 PM LoginPage authenticate
+WARNING: Failed login attempt for user: frg
+Apr 24, 2026 12:37:42 PM LoginPage authenticate
+INFO: Login successful for user: admin
+Apr 24, 2026 12:37:42 PM Dashboard <init>
+INFO: Dashboard displayed
+Apr 24, 2026 12:37:44 PM Dashboard openProductManagement
+INFO: Opening Product Management
+Apr 24, 2026 12:46:15 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 24, 2026 12:46:15 PM Main main
+INFO: Application starting...
+Apr 24, 2026 12:46:16 PM DBConnection initializeDatabase
+INFO: Database initialized successfully.
+Apr 24, 2026 12:46:16 PM LoginPage <init>
+INFO: Login page displayed
