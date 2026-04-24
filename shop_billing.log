@@ -1,0 +1,1096 @@
+Apr 12, 2026 11:47:35 AM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 12, 2026 11:47:35 AM Main main
+INFO: Application starting...
+Apr 12, 2026 11:47:35 AM LoginPage <init>
+INFO: Login page displayed
+Apr 12, 2026 11:47:43 AM LoginPage authenticate
+INFO: Login successful for user: admin
+Apr 12, 2026 11:47:43 AM Dashboard <init>
+INFO: Dashboard displayed
+Apr 12, 2026 11:47:45 AM Dashboard openProductManagement
+INFO: Opening Product Management
+Apr 12, 2026 11:50:16 AM Dashboard openProductManagement
+INFO: Opening Product Management
+Apr 12, 2026 11:50:50 AM ProductDAO updateProduct
+INFO: Product updated: ID 1
+Apr 12, 2026 11:51:20 AM Dashboard openBilling
+INFO: Opening Billing System
+Apr 12, 2026 11:51:41 AM BillDAO saveBill
+INFO: Bill saved successfully: ID 1
+Apr 12, 2026 11:51:48 AM BillingPage generateBill
+INFO: Bill generated: ID 1, Total: 218.3
+Apr 12, 2026 11:52:16 AM Dashboard openBilling
+INFO: Opening Billing System
+Apr 12, 2026 11:52:29 AM BillDAO saveBill
+INFO: Bill saved successfully: ID 2
+Apr 12, 2026 11:52:32 AM BillingPage generateBill
+INFO: Bill generated: ID 2, Total: 273.76
+Apr 12, 2026 11:52:39 AM Dashboard openProductManagement
+INFO: Opening Product Management
+Apr 12, 2026 11:52:44 AM ProductDAO updateProduct
+INFO: Product updated: ID 8
+Apr 12, 2026 12:00:11 PM Dashboard openBilling
+INFO: Opening Billing System
+Apr 12, 2026 12:07:13 PM ProductDAO updateProduct
+INFO: Product updated: ID 10
+Apr 12, 2026 12:07:23 PM Dashboard openProductManagement
+INFO: Opening Product Management
+Apr 12, 2026 12:07:27 PM Dashboard openBilling
+INFO: Opening Billing System
+Apr 12, 2026 12:07:36 PM BillDAO saveBill
+INFO: Bill saved successfully: ID 3
+Apr 12, 2026 12:07:45 PM BillingPage generateBill
+INFO: Bill generated: ID 3, Total: 1239.0
+Apr 12, 2026 12:07:48 PM Dashboard openProductManagement
+INFO: Opening Product Management
+Apr 12, 2026 12:08:05 PM Dashboard openBilling
+INFO: Opening Billing System
+Apr 12, 2026 12:29:26 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 12, 2026 12:29:26 PM Main main
+INFO: Application starting...
+Apr 12, 2026 12:29:26 PM LoginPage <init>
+INFO: Login page displayed
+Apr 12, 2026 12:29:35 PM LoginPage authenticate
+INFO: Login successful for user: admin
+Apr 12, 2026 12:29:35 PM Dashboard <init>
+INFO: Dashboard displayed
+Apr 12, 2026 12:29:37 PM Dashboard openSalesReport
+INFO: Opening Sales Records
+Apr 12, 2026 12:29:51 PM Dashboard openProductManagement
+INFO: Opening Product Management
+Apr 12, 2026 12:29:57 PM ProductDAO updateProduct
+INFO: Product updated: ID 8
+Apr 12, 2026 12:30:11 PM Dashboard openBilling
+INFO: Opening Billing System
+Apr 12, 2026 12:30:29 PM BillDAO saveBill
+INFO: Bill saved successfully: ID 1 for customer: Sumit
+Apr 12, 2026 12:30:33 PM BillingPage generateBill
+INFO: Bill generated: ID 1, Customer: Sumit, Total: 253.7
+Apr 12, 2026 12:30:36 PM Dashboard openSalesReport
+INFO: Opening Sales Records
+Apr 12, 2026 12:31:00 PM Dashboard openProductManagement
+INFO: Opening Product Management
+Apr 12, 2026 12:31:08 PM Dashboard openProductManagement
+INFO: Opening Product Management
+Apr 12, 2026 12:31:19 PM ProductDAO updateProduct
+INFO: Product updated: ID 6
+Apr 12, 2026 12:32:14 PM Dashboard openProductManagement
+INFO: Opening Product Management
+Apr 12, 2026 12:35:18 PM Dashboard openProductManagement
+INFO: Opening Product Management
+Apr 12, 2026 12:35:28 PM Dashboard openSalesReport
+INFO: Opening Sales Records
+Apr 12, 2026 12:35:53 PM Dashboard openProductManagement
+INFO: Opening Product Management
+Apr 12, 2026 12:36:21 PM Dashboard openProductManagement
+INFO: Opening Product Management
+Apr 12, 2026 12:36:58 PM ProductDAO updateProduct
+INFO: Product updated: ID 5
+Apr 12, 2026 12:56:33 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 12, 2026 12:56:33 PM Main main
+INFO: Application starting...
+Apr 12, 2026 12:56:33 PM LoginPage <init>
+INFO: Login page displayed
+Apr 12, 2026 12:56:42 PM LoginPage authenticate
+INFO: Login successful for user: admin
+Apr 12, 2026 12:56:42 PM Dashboard <init>
+INFO: Dashboard displayed
+Apr 12, 2026 12:56:48 PM Dashboard openBilling
+INFO: Opening Billing System
+Apr 12, 2026 12:57:03 PM Dashboard openProductManagement
+INFO: Opening Product Management
+Apr 12, 2026 12:57:16 PM ProductDAO addProduct
+INFO: Product added: Bread
+Apr 12, 2026 12:58:10 PM ProductDAO addProduct
+INFO: Product added: Dettol
+Apr 12, 2026 12:58:35 PM ProductDAO addProduct
+INFO: Product added: Bread
+Apr 12, 2026 12:59:11 PM Dashboard openBilling
+INFO: Opening Billing System
+Apr 12, 2026 12:59:48 PM Dashboard openBilling
+INFO: Opening Billing System
+Apr 12, 2026 1:00:08 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 12, 2026 1:00:08 PM Main main
+INFO: Application starting...
+Apr 12, 2026 1:00:08 PM LoginPage <init>
+INFO: Login page displayed
+Apr 12, 2026 1:00:16 PM LoginPage authenticate
+INFO: Login successful for user: admin
+Apr 12, 2026 1:00:16 PM Dashboard <init>
+INFO: Dashboard displayed
+Apr 12, 2026 1:00:18 PM Dashboard openBilling
+INFO: Opening Billing System
+Apr 12, 2026 1:01:25 PM BillDAO saveBill
+INFO: Bill saved successfully: ID 2 for customer: Asdf
+Apr 12, 2026 1:01:33 PM BillingPage generateBill
+INFO: Bill generated: ID 2, Customer: Asdf
+Apr 12, 2026 1:01:36 PM Dashboard openSalesReport
+INFO: Opening Sales Records
+Apr 12, 2026 1:01:58 PM Dashboard openProductManagement
+INFO: Opening Product Management
+Apr 12, 2026 1:02:10 PM ProductDAO deleteProduct
+INFO: Product deleted: ID 10
+Apr 12, 2026 1:02:15 PM ProductDAO deleteProduct
+INFO: Product deleted: ID 13
+Apr 12, 2026 1:03:21 PM ProductDAO addProduct
+INFO: Product added: Bread
+Apr 12, 2026 1:03:30 PM ProductDAO deleteProduct
+INFO: Product deleted: ID 11
+Apr 12, 2026 1:09:03 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 12, 2026 1:09:03 PM Main main
+INFO: Application starting...
+Apr 12, 2026 1:09:03 PM LoginPage <init>
+INFO: Login page displayed
+Apr 12, 2026 1:09:10 PM LoginPage authenticate
+INFO: Login successful for user: admin
+Apr 12, 2026 1:09:10 PM Dashboard <init>
+INFO: Dashboard displayed
+Apr 12, 2026 1:09:12 PM Dashboard openProductManagement
+INFO: Opening Product Management
+Apr 12, 2026 1:09:33 PM ProductDAO updateProduct
+INFO: Product updated: ID 9
+Apr 12, 2026 1:09:47 PM Dashboard openProductManagement
+INFO: Opening Product Management
+Apr 12, 2026 1:10:44 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 12, 2026 1:10:44 PM Main main
+INFO: Application starting...
+Apr 12, 2026 1:10:44 PM LoginPage <init>
+INFO: Login page displayed
+Apr 12, 2026 1:10:53 PM LoginPage authenticate
+INFO: Login successful for user: admin
+Apr 12, 2026 1:10:53 PM Dashboard <init>
+INFO: Dashboard displayed
+Apr 12, 2026 1:10:54 PM Dashboard openProductManagement
+INFO: Opening Product Management
+Apr 12, 2026 1:11:53 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 12, 2026 1:11:53 PM Main main
+INFO: Application starting...
+Apr 12, 2026 1:11:53 PM LoginPage <init>
+INFO: Login page displayed
+Apr 12, 2026 1:12:00 PM LoginPage authenticate
+INFO: Login successful for user: admin
+Apr 12, 2026 1:12:00 PM Dashboard <init>
+INFO: Dashboard displayed
+Apr 12, 2026 1:12:03 PM Dashboard openProductManagement
+INFO: Opening Product Management
+Apr 12, 2026 2:03:19 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 12, 2026 2:03:19 PM Main main
+INFO: Application starting...
+Apr 12, 2026 2:03:19 PM LoginPage <init>
+INFO: Login page displayed
+Apr 12, 2026 2:03:35 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 12, 2026 2:03:35 PM Main main
+INFO: Application starting...
+Apr 12, 2026 2:03:35 PM LoginPage <init>
+INFO: Login page displayed
+Apr 12, 2026 2:03:43 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 12, 2026 2:03:43 PM Main main
+INFO: Application starting...
+Apr 12, 2026 2:03:44 PM LoginPage <init>
+INFO: Login page displayed
+Apr 12, 2026 2:04:33 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 12, 2026 2:04:33 PM Main main
+INFO: Application starting...
+Apr 12, 2026 2:04:33 PM LoginPage <init>
+INFO: Login page displayed
+Apr 12, 2026 2:04:45 PM LoginPage authenticate
+INFO: Login successful for user: admin
+Apr 12, 2026 2:04:45 PM Dashboard <init>
+INFO: Dashboard displayed
+Apr 12, 2026 2:04:52 PM Dashboard openProductManagement
+INFO: Opening Product Management
+Apr 12, 2026 2:05:10 PM Dashboard openSalesReport
+INFO: Opening Sales Records
+Apr 12, 2026 2:12:00 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 12, 2026 2:12:00 PM Main main
+INFO: Application starting...
+Apr 12, 2026 2:12:01 PM LoginPage <init>
+INFO: Login page displayed
+Apr 12, 2026 2:12:08 PM LoginPage authenticate
+INFO: Login successful for user: admin
+Apr 12, 2026 2:12:08 PM Dashboard <init>
+INFO: Dashboard displayed
+Apr 12, 2026 2:12:10 PM Dashboard openSalesReport
+INFO: Opening Sales Records
+Apr 12, 2026 2:12:26 PM Dashboard openBilling
+INFO: Opening Billing System
+Apr 12, 2026 2:12:45 PM BillDAO saveBill
+INFO: Bill saved successfully: ID 3 for customer: Awaz
+Apr 12, 2026 2:13:05 PM BillingPage generateBill
+INFO: Bill generated: ID 3, Customer: Awaz
+Apr 12, 2026 2:14:33 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 12, 2026 2:14:33 PM Main main
+INFO: Application starting...
+Apr 12, 2026 2:14:33 PM LoginPage <init>
+INFO: Login page displayed
+Apr 12, 2026 2:14:40 PM LoginPage authenticate
+INFO: Login successful for user: admin
+Apr 12, 2026 2:14:40 PM Dashboard <init>
+INFO: Dashboard displayed
+Apr 12, 2026 2:14:42 PM Dashboard openProductManagement
+INFO: Opening Product Management
+Apr 12, 2026 2:15:00 PM ProductDAO addProduct
+INFO: Product added: New Product
+Apr 12, 2026 2:15:19 PM Dashboard openBilling
+INFO: Opening Billing System
+Apr 12, 2026 2:15:53 PM BillDAO saveBill
+INFO: Bill saved successfully: ID 4 for customer: Phalane
+Apr 12, 2026 2:16:04 PM BillingPage generateBill
+INFO: Bill generated: ID 4, Customer: Phalane
+Apr 12, 2026 2:16:14 PM Dashboard openSalesReport
+INFO: Opening Sales Records
+Apr 12, 2026 2:16:49 PM Dashboard logout
+INFO: User logged out
+Apr 12, 2026 2:16:49 PM LoginPage <init>
+INFO: Login page displayed
+Apr 12, 2026 4:16:16 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 12, 2026 4:16:16 PM Main main
+INFO: Application starting...
+Apr 12, 2026 4:16:16 PM LoginPage <init>
+INFO: Login page displayed
+Apr 12, 2026 4:16:24 PM LoginPage authenticate
+INFO: Login successful for user: admin
+Apr 12, 2026 4:16:24 PM Dashboard <init>
+INFO: Dashboard displayed
+Apr 12, 2026 4:16:25 PM Dashboard openProductManagement
+INFO: Opening Product Management
+Apr 12, 2026 5:09:35 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 12, 2026 5:09:36 PM Main main
+INFO: Application starting...
+Apr 12, 2026 5:09:36 PM LoginPage <init>
+INFO: Login page displayed
+Apr 12, 2026 5:11:48 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 12, 2026 5:11:48 PM Main main
+INFO: Application starting...
+Apr 12, 2026 5:11:48 PM LoginPage <init>
+INFO: Login page displayed
+Apr 12, 2026 5:11:55 PM LoginPage authenticate
+INFO: Login successful for user: admin
+Apr 12, 2026 5:11:55 PM Dashboard <init>
+INFO: Dashboard displayed
+Apr 12, 2026 5:11:56 PM Dashboard openProductManagement
+INFO: Opening Product Management
+Apr 12, 2026 5:12:07 PM ProductDAO deleteProduct
+INFO: Product deleted: ID 14
+Apr 12, 2026 5:12:13 PM Dashboard openSalesReport
+INFO: Opening Sales Records
+Apr 12, 2026 5:12:24 PM Dashboard logout
+INFO: User logged out
+Apr 12, 2026 5:12:24 PM LoginPage <init>
+INFO: Login page displayed
+Apr 12, 2026 5:17:17 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 12, 2026 5:17:17 PM Main main
+INFO: Application starting...
+Apr 12, 2026 5:17:17 PM LoginPage <init>
+INFO: Login page displayed
+Apr 12, 2026 5:17:26 PM LoginPage authenticate
+INFO: Login successful for user: admin
+Apr 12, 2026 5:17:26 PM Dashboard <init>
+INFO: Dashboard displayed
+Apr 12, 2026 5:17:29 PM Dashboard logout
+INFO: User logged out
+Apr 12, 2026 5:17:29 PM LoginPage <init>
+INFO: Login page displayed
+Apr 13, 2026 9:00:51 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 13, 2026 9:00:51 PM Main main
+INFO: Application starting...
+Apr 13, 2026 9:00:51 PM LoginPage <init>
+INFO: Login page displayed
+Apr 13, 2026 9:01:04 PM LoginPage authenticate
+INFO: Login successful for user: admin
+Apr 13, 2026 9:01:04 PM Dashboard <init>
+INFO: Dashboard displayed
+Apr 13, 2026 9:01:15 PM Dashboard openProductManagement
+INFO: Opening Product Management
+Apr 16, 2026 2:38:51 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 16, 2026 2:38:51 PM Main main
+INFO: Application starting...
+Apr 16, 2026 2:38:51 PM LoginPage <init>
+INFO: Login page displayed
+Apr 16, 2026 3:37:58 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 16, 2026 3:37:58 PM Main main
+INFO: Application starting...
+Apr 16, 2026 3:37:59 PM LoginPage <init>
+INFO: Login page displayed
+Apr 16, 2026 3:48:47 PM LoginPage authenticate
+INFO: Login successful for user: admin
+Apr 16, 2026 3:48:48 PM Dashboard <init>
+INFO: Dashboard displayed
+Apr 16, 2026 10:06:51 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 16, 2026 10:06:51 PM Main main
+INFO: Application starting...
+Apr 16, 2026 10:06:51 PM LoginPage <init>
+INFO: Login page displayed
+Apr 16, 2026 10:07:20 PM LoginPage authenticate
+INFO: Login successful for user: admin
+Apr 16, 2026 10:07:20 PM Dashboard <init>
+INFO: Dashboard displayed
+Apr 16, 2026 10:07:28 PM Dashboard openProductManagement
+INFO: Opening Product Management
+Apr 16, 2026 10:07:57 PM ProductDAO updateProduct
+INFO: Product updated: ID 16
+Apr 16, 2026 10:08:04 PM Dashboard openBilling
+INFO: Opening Billing System
+Apr 16, 2026 10:08:05 PM Dashboard openBilling
+INFO: Opening Billing System
+Apr 16, 2026 10:08:53 PM BillDAO saveBill
+INFO: Bill saved successfully: ID 6 for customer: ASDFG
+Apr 16, 2026 10:09:19 PM BillingPage generateBill
+INFO: Bill generated: ID 6, Customer: ASDFG
+Apr 16, 2026 10:09:26 PM Dashboard openSalesReport
+INFO: Opening Sales Records
+Apr 16, 2026 10:09:26 PM Dashboard openSalesReport
+INFO: Opening Sales Records
+Apr 16, 2026 10:13:56 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 16, 2026 10:13:56 PM Main main
+INFO: Application starting...
+Apr 16, 2026 10:13:56 PM LoginPage <init>
+INFO: Login page displayed
+Apr 16, 2026 10:14:03 PM LoginPage authenticate
+INFO: Login successful for user: admin
+Apr 16, 2026 10:14:04 PM Dashboard <init>
+INFO: Dashboard displayed
+Apr 16, 2026 10:14:05 PM Dashboard openProductManagement
+INFO: Opening Product Management
+Apr 16, 2026 10:14:06 PM ProductDAO getAllProducts
+SEVERE: Error fetching products
+java.sql.SQLSyntaxErrorException: Unknown database 'shop_billing.'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:121)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:815)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:438)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:189)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:683)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230)
+	at DBConnection.getConnection(DBConnection.java:28)
+	at ProductDAO.getAllProducts(ProductDAO.java:74)
+	at ProductManagement.loadProducts(ProductManagement.java:263)
+	at ProductManagement.<init>(ProductManagement.java:31)
+	at Dashboard.openProductManagement(Dashboard.java:154)
+	at Dashboard.lambda$0(Dashboard.java:55)
+	at Dashboard$1.mouseClicked(Dashboard.java:145)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6624)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3398)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6386)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2266)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:4996)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2324)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4828)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4948)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4584)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4516)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2310)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2780)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4828)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:775)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:98)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:747)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:744)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+Apr 16, 2026 10:14:14 PM ProductDAO addProduct
+SEVERE: Error adding product
+java.sql.SQLSyntaxErrorException: Unknown database 'shop_billing.'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:121)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:815)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:438)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:189)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:683)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230)
+	at DBConnection.getConnection(DBConnection.java:28)
+	at ProductDAO.addProduct(ProductDAO.java:17)
+	at ProductManagement.addProduct(ProductManagement.java:299)
+	at ProductManagement.lambda$1(ProductManagement.java:87)
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1972)
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2314)
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:407)
+	at java.desktop/javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262)
+	at java.desktop/javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279)
+	at java.desktop/java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:297)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6621)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3398)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6386)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2266)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:4996)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2324)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4828)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4948)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4575)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4516)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2310)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2780)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4828)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:775)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:98)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:747)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:744)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+Apr 16, 2026 11:37:52 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 16, 2026 11:37:52 PM Main main
+INFO: Application starting...
+Apr 16, 2026 11:37:52 PM LoginPage <init>
+INFO: Login page displayed
+Apr 16, 2026 11:38:30 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 16, 2026 11:38:30 PM Main main
+INFO: Application starting...
+Apr 16, 2026 11:38:30 PM LoginPage <init>
+INFO: Login page displayed
+Apr 16, 2026 11:39:07 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 16, 2026 11:39:07 PM Main main
+INFO: Application starting...
+Apr 16, 2026 11:39:07 PM LoginPage <init>
+INFO: Login page displayed
+Apr 16, 2026 11:40:25 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 16, 2026 11:40:25 PM Main main
+INFO: Application starting...
+Apr 16, 2026 11:40:25 PM LoginPage <init>
+INFO: Login page displayed
+Apr 16, 2026 11:41:05 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 16, 2026 11:41:05 PM Main main
+INFO: Application starting...
+Apr 16, 2026 11:41:05 PM LoginPage <init>
+INFO: Login page displayed
+Apr 16, 2026 11:41:20 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 16, 2026 11:41:20 PM Main main
+INFO: Application starting...
+Apr 16, 2026 11:41:20 PM LoginPage <init>
+INFO: Login page displayed
+Apr 16, 2026 11:41:38 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 16, 2026 11:41:38 PM Main main
+INFO: Application starting...
+Apr 16, 2026 11:41:39 PM LoginPage <init>
+INFO: Login page displayed
+Apr 16, 2026 11:41:50 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 16, 2026 11:41:50 PM Main main
+INFO: Application starting...
+Apr 16, 2026 11:41:51 PM LoginPage <init>
+INFO: Login page displayed
+Apr 16, 2026 11:43:01 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 16, 2026 11:43:01 PM Main main
+INFO: Application starting...
+Apr 16, 2026 11:43:01 PM LoginPage <init>
+INFO: Login page displayed
+Apr 16, 2026 11:43:44 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 16, 2026 11:43:44 PM Main main
+INFO: Application starting...
+Apr 16, 2026 11:43:57 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 16, 2026 11:43:57 PM Main main
+INFO: Application starting...
+Apr 16, 2026 11:43:57 PM LoginPage <init>
+INFO: Login page displayed
+Apr 16, 2026 11:44:22 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 16, 2026 11:44:22 PM Main main
+INFO: Application starting...
+Apr 16, 2026 11:44:22 PM LoginPage <init>
+INFO: Login page displayed
+Apr 16, 2026 11:44:38 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 16, 2026 11:44:38 PM Main main
+INFO: Application starting...
+Apr 16, 2026 11:44:38 PM LoginPage <init>
+INFO: Login page displayed
+Apr 16, 2026 11:45:00 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 16, 2026 11:45:00 PM Main main
+INFO: Application starting...
+Apr 16, 2026 11:45:00 PM LoginPage <init>
+INFO: Login page displayed
+Apr 16, 2026 11:45:15 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 16, 2026 11:45:15 PM Main main
+INFO: Application starting...
+Apr 16, 2026 11:45:15 PM LoginPage <init>
+INFO: Login page displayed
+Apr 16, 2026 11:45:40 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 16, 2026 11:45:40 PM Main main
+INFO: Application starting...
+Apr 16, 2026 11:45:40 PM LoginPage <init>
+INFO: Login page displayed
+Apr 16, 2026 11:47:35 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 16, 2026 11:47:35 PM Main main
+INFO: Application starting...
+Apr 16, 2026 11:47:35 PM LoginPage <init>
+INFO: Login page displayed
+Apr 16, 2026 11:47:59 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 16, 2026 11:47:59 PM Main main
+INFO: Application starting...
+Apr 16, 2026 11:47:59 PM LoginPage <init>
+INFO: Login page displayed
+Apr 16, 2026 11:48:31 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 16, 2026 11:48:31 PM Main main
+INFO: Application starting...
+Apr 16, 2026 11:48:32 PM LoginPage <init>
+INFO: Login page displayed
+Apr 16, 2026 11:49:15 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 16, 2026 11:49:15 PM Main main
+INFO: Application starting...
+Apr 16, 2026 11:49:31 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 16, 2026 11:49:31 PM Main main
+INFO: Application starting...
+Apr 16, 2026 11:49:31 PM LoginPage <init>
+INFO: Login page displayed
+Apr 16, 2026 11:49:44 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 16, 2026 11:49:44 PM Main main
+INFO: Application starting...
+Apr 16, 2026 11:49:45 PM LoginPage <init>
+INFO: Login page displayed
+Apr 16, 2026 11:54:34 PM LoginPage authenticate
+WARNING: Failed login attempt for user: xc
+Apr 16, 2026 11:57:46 PM LoginPage authenticate
+INFO: Login successful for user: admin
+Apr 16, 2026 11:57:46 PM Dashboard <init>
+INFO: Dashboard displayed
+Apr 17, 2026 12:37:11 AM Dashboard openProductManagement
+INFO: Opening Product Management
+Apr 17, 2026 12:37:43 AM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 17, 2026 12:37:43 AM Main main
+INFO: Application starting...
+Apr 17, 2026 12:37:43 AM LoginPage <init>
+INFO: Login page displayed
+Apr 17, 2026 12:37:54 AM LoginPage authenticate
+INFO: Login successful for user: admin
+Apr 17, 2026 12:37:54 AM Dashboard <init>
+INFO: Dashboard displayed
+Apr 17, 2026 7:07:12 PM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 17, 2026 7:07:12 PM Main main
+INFO: Application starting...
+Apr 17, 2026 7:07:13 PM LoginPage <init>
+INFO: Login page displayed
+Apr 17, 2026 7:07:21 PM LoginPage authenticate
+INFO: Login successful for user: admin
+Apr 17, 2026 7:07:21 PM Dashboard <init>
+INFO: Dashboard displayed
+Apr 17, 2026 7:07:25 PM Dashboard openProductManagement
+INFO: Opening Product Management
+Apr 17, 2026 7:07:52 PM ProductDAO addProduct
+INFO: Product added: Washing Powder Nirma
+Apr 17, 2026 7:08:12 PM ProductDAO deleteProduct
+INFO: Product deleted: ID 5
+Apr 17, 2026 7:08:21 PM Dashboard openBilling
+INFO: Opening Billing System
+Apr 17, 2026 7:08:25 PM Dashboard openSalesReport
+INFO: Opening Sales Records
+Apr 17, 2026 7:08:34 PM Dashboard logout
+INFO: User logged out
+Apr 17, 2026 7:08:34 PM LoginPage <init>
+INFO: Login page displayed
+Apr 18, 2026 1:12:43 AM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 18, 2026 1:12:43 AM Main main
+INFO: Application starting...
+Apr 18, 2026 1:12:43 AM LoginPage <init>
+INFO: Login page displayed
+Apr 18, 2026 1:12:44 AM DBConnection initializeDatabase
+SEVERE: Database initialization failed
+java.sql.SQLSyntaxErrorException: Unknown database 'shop_billing'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:121)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:815)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:438)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:189)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:683)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230)
+	at DBConnection.getConnection(DBConnection.java:29)
+	at DBConnection.initializeDatabase(DBConnection.java:33)
+	at Main.lambda$0(Main.java:29)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+Apr 18, 2026 1:13:03 AM LoginPage authenticate
+INFO: Login successful for user: admin
+Apr 18, 2026 1:13:03 AM Dashboard <init>
+INFO: Dashboard displayed
+Apr 18, 2026 1:13:05 AM Dashboard openProductManagement
+INFO: Opening Product Management
+Apr 18, 2026 1:13:05 AM ProductDAO getAllProducts
+SEVERE: Error fetching products
+java.sql.SQLSyntaxErrorException: Unknown database 'shop_billing'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:121)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:815)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:438)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:189)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:683)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230)
+	at DBConnection.getConnection(DBConnection.java:29)
+	at ProductDAO.getAllProducts(ProductDAO.java:74)
+	at ProductManagement.loadProducts(ProductManagement.java:263)
+	at ProductManagement.<init>(ProductManagement.java:31)
+	at Dashboard.openProductManagement(Dashboard.java:154)
+	at Dashboard.lambda$0(Dashboard.java:55)
+	at Dashboard$1.mouseClicked(Dashboard.java:145)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6624)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3398)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6386)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2266)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:4996)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2324)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4828)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4948)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4584)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4516)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2310)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2780)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4828)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:775)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:98)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:747)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:744)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+Apr 18, 2026 1:13:19 AM ProductDAO addProduct
+SEVERE: Error adding product
+java.sql.SQLSyntaxErrorException: Unknown database 'shop_billing'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:121)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:815)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:438)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:189)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:683)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230)
+	at DBConnection.getConnection(DBConnection.java:29)
+	at ProductDAO.addProduct(ProductDAO.java:17)
+	at ProductManagement.addProduct(ProductManagement.java:299)
+	at ProductManagement.lambda$1(ProductManagement.java:87)
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1972)
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2314)
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:407)
+	at java.desktop/javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262)
+	at java.desktop/javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279)
+	at java.desktop/java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:297)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6621)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3398)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6386)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2266)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:4996)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2324)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4828)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4948)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4575)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4516)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2310)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2780)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4828)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:775)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:98)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:747)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:744)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+Apr 18, 2026 1:14:17 AM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 18, 2026 1:14:18 AM Main main
+INFO: Application starting...
+Apr 18, 2026 1:14:18 AM DBConnection initializeDatabase
+SEVERE: Database initialization failed
+java.sql.SQLSyntaxErrorException: Unknown database 'shop_billing'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:121)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:815)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:438)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:189)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:683)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230)
+	at DBConnection.getConnection(DBConnection.java:29)
+	at DBConnection.initializeDatabase(DBConnection.java:33)
+	at Main.lambda$0(Main.java:28)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+Apr 18, 2026 1:14:18 AM LoginPage <init>
+INFO: Login page displayed
+Apr 18, 2026 1:14:38 AM LoginPage authenticate
+INFO: Login successful for user: admin
+Apr 18, 2026 1:14:38 AM Dashboard <init>
+INFO: Dashboard displayed
+Apr 18, 2026 1:14:40 AM Dashboard openSalesReport
+INFO: Opening Sales Records
+Apr 18, 2026 1:14:40 AM BillDAO getAllBills
+SEVERE: Error fetching bills
+java.sql.SQLSyntaxErrorException: Unknown database 'shop_billing'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:121)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:815)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:438)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:189)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:683)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230)
+	at DBConnection.getConnection(DBConnection.java:29)
+	at BillDAO.getAllBills(BillDAO.java:84)
+	at SalesReport.loadAllBills(SalesReport.java:218)
+	at SalesReport.<init>(SalesReport.java:32)
+	at Dashboard.openSalesReport(Dashboard.java:164)
+	at Dashboard.lambda$2(Dashboard.java:63)
+	at Dashboard$1.mouseClicked(Dashboard.java:145)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6624)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3398)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6386)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2266)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:4996)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2324)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4828)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4948)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4584)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4516)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2310)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2780)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4828)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:775)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:98)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:747)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:744)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+Apr 18, 2026 1:14:46 AM Dashboard openProductManagement
+INFO: Opening Product Management
+Apr 18, 2026 1:14:46 AM ProductDAO getAllProducts
+SEVERE: Error fetching products
+java.sql.SQLSyntaxErrorException: Unknown database 'shop_billing'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:121)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:815)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:438)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:189)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:683)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230)
+	at DBConnection.getConnection(DBConnection.java:29)
+	at ProductDAO.getAllProducts(ProductDAO.java:74)
+	at ProductManagement.loadProducts(ProductManagement.java:263)
+	at ProductManagement.<init>(ProductManagement.java:31)
+	at Dashboard.openProductManagement(Dashboard.java:154)
+	at Dashboard.lambda$0(Dashboard.java:55)
+	at Dashboard$1.mouseClicked(Dashboard.java:145)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6624)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3398)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6386)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2266)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:4996)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2324)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4828)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4948)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4584)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4516)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2310)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2780)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4828)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:775)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:98)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:747)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:744)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+Apr 18, 2026 1:14:57 AM ProductDAO addProduct
+SEVERE: Error adding product
+java.sql.SQLSyntaxErrorException: Unknown database 'shop_billing'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:121)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:815)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:438)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:189)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:683)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230)
+	at DBConnection.getConnection(DBConnection.java:29)
+	at ProductDAO.addProduct(ProductDAO.java:17)
+	at ProductManagement.addProduct(ProductManagement.java:299)
+	at ProductManagement.lambda$1(ProductManagement.java:87)
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1972)
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2314)
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:407)
+	at java.desktop/javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262)
+	at java.desktop/javax.swing.plaf.basic.BasicButtonListener.mouseReleased(BasicButtonListener.java:279)
+	at java.desktop/java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:297)
+	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6621)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3398)
+	at java.desktop/java.awt.Component.processEvent(Component.java:6386)
+	at java.desktop/java.awt.Container.processEvent(Container.java:2266)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:4996)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2324)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4828)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4948)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4575)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4516)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2310)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2780)
+	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4828)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:775)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:98)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:747)
+	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:744)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+Apr 18, 2026 1:16:18 AM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 18, 2026 1:16:18 AM Main main
+INFO: Application starting...
+Apr 18, 2026 1:16:18 AM DBConnection initializeDatabase
+SEVERE: Database initialization failed
+java.sql.SQLSyntaxErrorException: Unknown database 'shop_billing'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:121)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:815)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:438)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:241)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:189)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:683)
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:230)
+	at DBConnection.getConnection(DBConnection.java:29)
+	at DBConnection.initializeDatabase(DBConnection.java:34)
+	at Main.lambda$0(Main.java:28)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+Apr 18, 2026 1:16:18 AM LoginPage <init>
+INFO: Login page displayed
+Apr 18, 2026 1:21:14 AM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 18, 2026 1:21:14 AM Main main
+INFO: Application starting...
+Apr 18, 2026 1:21:15 AM DBConnection initializeDatabase
+SEVERE: Database initialization failed
+java.sql.SQLException: No database selected
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:130)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.StatementImpl.executeUpdateInternal(StatementImpl.java:1344)
+	at com.mysql.cj.jdbc.StatementImpl.executeLargeUpdate(StatementImpl.java:2090)
+	at com.mysql.cj.jdbc.StatementImpl.executeUpdate(StatementImpl.java:1253)
+	at DBConnection.initializeDatabase(DBConnection.java:39)
+	at Main.lambda$0(Main.java:28)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+
+Apr 18, 2026 1:21:15 AM LoginPage <init>
+INFO: Login page displayed
+Apr 18, 2026 1:22:56 AM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 18, 2026 1:22:56 AM Main main
+INFO: Application starting...
+Apr 18, 2026 1:22:57 AM DBConnection initializeDatabase
+INFO: Database initialized successfully ✅
+Apr 18, 2026 1:22:57 AM LoginPage <init>
+INFO: Login page displayed
+Apr 18, 2026 1:23:11 AM LoginPage authenticate
+INFO: Login successful for user: admin
+Apr 18, 2026 1:23:11 AM Dashboard <init>
+INFO: Dashboard displayed
+Apr 18, 2026 1:23:13 AM Dashboard openProductManagement
+INFO: Opening Product Management
+Apr 18, 2026 1:23:29 AM ProductDAO addProduct
+INFO: Product added: Biscuits
+Apr 18, 2026 1:23:36 AM ProductDAO updateProduct
+INFO: Product updated: ID 1
+Apr 18, 2026 1:23:44 AM ProductDAO updateProduct
+INFO: Product updated: ID 1
+Apr 18, 2026 1:23:52 AM Dashboard openSalesReport
+INFO: Opening Sales Records
+Apr 18, 2026 1:24:24 AM Dashboard openProductManagement
+INFO: Opening Product Management
+Apr 18, 2026 1:24:56 AM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 18, 2026 1:24:56 AM Main main
+INFO: Application starting...
+Apr 18, 2026 1:24:57 AM DBConnection initializeDatabase
+INFO: Database initialized successfully ✅
+Apr 18, 2026 1:24:57 AM LoginPage <init>
+INFO: Login page displayed
+Apr 18, 2026 1:25:04 AM LoginPage authenticate
+INFO: Login successful for user: admin
+Apr 18, 2026 1:25:04 AM Dashboard <init>
+INFO: Dashboard displayed
+Apr 18, 2026 1:25:05 AM Dashboard openProductManagement
+INFO: Opening Product Management
+Apr 18, 2026 1:28:02 AM LoggerUtil init
+INFO: Logger initialized successfully
+Apr 18, 2026 1:28:02 AM Main main
+INFO: Application starting...
+Apr 18, 2026 1:28:03 AM DBConnection initializeDatabase
+INFO: Database initialized successfully ✅
+Apr 18, 2026 1:28:03 AM LoginPage <init>
+INFO: Login page displayed
+Apr 18, 2026 1:29:40 AM LoginPage authenticate
+INFO: Login successful for user: admin
+Apr 18, 2026 1:29:40 AM Dashboard <init>
+INFO: Dashboard displayed
+Apr 18, 2026 1:29:41 AM Dashboard openProductManagement
+INFO: Opening Product Management
