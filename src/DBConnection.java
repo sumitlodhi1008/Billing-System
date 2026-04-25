@@ -14,13 +14,6 @@ public class DBConnection {
     private static final String USER = "root";
     private static final String PASSWORD = "";
 
-    static {
-        try {
-            Class.forName("com.mysql.cj.jdbc.Driver");
-        } catch (ClassNotFoundException e) {
-            LoggerUtil.getLogger().log(Level.SEVERE, "MySQL JDBC Driver not found", e);
-        }
-    }
 
     /**
      * Returns a new connection to the MySQL database.
